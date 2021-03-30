@@ -9,3 +9,9 @@
 
 
 ## HW9 
+
+* Write a program that can find the minimum of a function that you define. 
+
+* We are minimizing function `f(x) = sin(x)*(x-1)^2`
+
+* see jupyter notebook `minimize.ipynb`
